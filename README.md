@@ -1,1 +1,1 @@
-Some basic React projects.
+Some basic React projects
