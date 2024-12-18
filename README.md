@@ -4,3 +4,4 @@ Some basic React projects
 03-reviews
 04-accordians
 05-menus
+06-tabs
