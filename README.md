@@ -6,3 +6,4 @@ Some basic React projects
 05-menus
 06-tabs
 07-sliders
+08-lorems
