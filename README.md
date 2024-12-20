@@ -7,3 +7,4 @@ Some basic React projects
 06-tabs
 07-sliders
 08-lorems
+09-colorGenerator
