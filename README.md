@@ -9,3 +9,4 @@ Some basic React projects
 08-lorems
 09-colorGenerator
 10-groceryBud
+11-navbar
