@@ -10,3 +10,4 @@ Some basic React projects
 09-colorGenerator
 10-groceryBud
 11-navbar
+12-sidebar
