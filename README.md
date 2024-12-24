@@ -12,3 +12,4 @@ Some basic React projects
 11-navbar
 12-sidebar
 13-stripe-submenus
+14-cart
