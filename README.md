@@ -16,3 +16,4 @@ Some basic React projects
 15-cocktails
 16-markdown-preview
 17-random-person
+18-pagination
