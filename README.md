@@ -17,3 +17,4 @@ Some basic React projects
 16-markdown-preview
 17-random-person
 18-pagination
+19-stock-photos
