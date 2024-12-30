@@ -20,3 +20,4 @@ Some basic React projects
 19-stock-photos
 20-dark-mode
 21-movie-db
+22-hacker-news
