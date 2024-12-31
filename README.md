@@ -22,3 +22,4 @@ Some basic React projects
 21-movie-db
 22-hacker-news
 23-quiz
+24-updates
